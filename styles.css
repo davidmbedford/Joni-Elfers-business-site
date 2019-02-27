@@ -1,7 +1,7 @@
 body {
-  color: #777777;
+  color: #242830;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-  background-color: #e7b9b9;
+  background-image: url("assets/images/moog.jpg");
 }
 
 header {
@@ -41,8 +41,8 @@ h1 {
 }
 
 .aboutme {
-  background-color: #ffffff;
-  border: 1px solid  #dddddd;
+  background-color: #f78282;
+  border: 1px solid  #f0c6c6;
   box-align: center;
   padding: 10px;
   margin: 10%;
